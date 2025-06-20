@@ -9,10 +9,7 @@ Feel free to explore each folder to view the code and design.
 A landing page for a fashion/clothing brand. Built with HTML, CSS, and responsive layout design.
 
 ### 🤖 Stel
-A simple AI robot interface using JavaScript logic to simulate interaction.
-
-### 🌐 [Project 3 Name]
-[Short description here — e.g. a weather app, calculator, etc.]
+A simple AI robot interface using HTML, CSS and JavaScript.
 
 ---
 
